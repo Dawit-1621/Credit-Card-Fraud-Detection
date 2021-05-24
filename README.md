@@ -19,7 +19,6 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 * pandas
 * matplotlib
 * sklearn
-* Flask web app framework
 ### Instructions:
 
 
