@@ -6,16 +6,7 @@
 * pandas
 * matplotlib
 * sklearn
-### Model Development
-we will building six different types of classification model
 
-
-*   Decision Tree
-*   K_Nearest Neighbors (KNN)
-*   Logistic Regression
-*   Support Vector Machine (SVM)
-*   Random Forest
-*   XGBoost
 ### Instructions:
 
 
@@ -37,7 +28,14 @@ Identify fraudulent credit card transactions.
 
 Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification. 
 
-
+## Model Development
+we will building six different types of classification model
+*   Decision Tree
+*   K_Nearest Neighbors (KNN)
+*   Logistic Regression
+*   Support Vector Machine (SVM)
+*   Random Forest
+*   XGBoost
 
 ## Licensing
 ## Authors
