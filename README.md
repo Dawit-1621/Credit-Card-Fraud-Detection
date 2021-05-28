@@ -6,6 +6,11 @@
 * pandas
 * matplotlib
 * sklearn
+* LogisticRegression
+* DecisionTreeClassifier
+* KNeighborsClassifier
+* RandomForestClassifier
+* XGBClassifier
 
 ### Instructions:
 
