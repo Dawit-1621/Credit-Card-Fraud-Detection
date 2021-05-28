@@ -1,4 +1,25 @@
 # Credit-Card-Fraud-Detection
+
+## Installation
+**Importing Libraries**</br>
+* numpy
+* pandas
+* matplotlib
+* sklearn
+### Model Development
+we will building six different types of classification model
+
+
+*   Decision Tree
+*   K_Nearest Neighbors (KNN)
+*   Logistic Regression
+*   Support Vector Machine (SVM)
+*   Random Forest
+*   XGBoost
+### Instructions:
+
+
+## Project Motivation
 ## Context
 Fraud detection is a set of activities that are taken to prevent money or property from being obtained through false pretenses.
 Credit card fraud is increasing considerably with the development of modern technology and the global superhighways of communication. Credit card fraud costs consumers and the financial company billions of dollars annually, and fraudsters continuously try to find new rules and tactics to commit illegal actions. Thus, fraud detection systems have become essential for banks and financial institution, to minimize their losses. However, there is a lack of published literature on credit card fraud detection techniques, due to the unavailable credit card transactions dataset for researchers. </br>
@@ -15,17 +36,6 @@ It contains only numerical input variables which are the result of a PCA transfo
 Identify fraudulent credit card transactions.
 
 Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification. 
-
-## Installation
-**Importing Libraries**</br>
-* numpy
-* pandas
-* matplotlib
-* sklearn
-### Instructions:
-
-
-## Project Motivation
 
 
 
