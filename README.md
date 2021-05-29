@@ -11,6 +11,9 @@
 * KNeighborsClassifier
 * RandomForestClassifier
 * XGBClassifier
+#### Model Evaluation Metrics
+* Confusion Matrix
+* F1 Score
 
 ### Instructions:
 
