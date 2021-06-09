@@ -14,7 +14,8 @@
 #### Model Evaluation Metrics
 * Confusion Matrix
 * F1 Score
-
+## Dataset
+The dataset used for this project is available on https://www.kaggle.com/mlg-ulb/creditcardfraud
 ### Instructions:
 
 
