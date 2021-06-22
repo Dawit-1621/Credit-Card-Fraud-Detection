@@ -12,6 +12,7 @@
 * RandomForestClassifier
 * XGBClassifier
 #### Model Evaluation Metrics
+* Accuracy Score
 * Confusion Matrix
 * F1 Score
 ## Dataset
