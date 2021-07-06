@@ -21,7 +21,7 @@ The dataset that can be downloaded from this Kaggle link https://www.kaggle.com/
 Fraud detection is a set of activities that are taken to prevent money or property from being obtained through false pretenses.
 Credit card fraud is increasing considerably with the development of modern technology and the global superhighways of communication. Credit card fraud costs consumers and the financial company billions of dollars annually, and fraudsters continuously try to find new rules and tactics to commit illegal actions. Thus, fraud detection systems have become essential for banks and financial institution, to minimize their losses. However, there is a lack of published literature on credit card fraud detection techniques, due to the unavailable credit card transactions dataset for researchers. </br>
 Fraud is a major problem for the whole credit card industry that grows bigger with the increasing popularity of electronic money transfers. 
-It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
+It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. Credit Card Fraud Detection with Machine Learning is a process of data investigation and the development of a model that will provide the best results in revealing and preventing fraudulent transactions.
 
 ## Content
 The datasets contains transactions made by credit cards in September 2013 by european cardholders.
