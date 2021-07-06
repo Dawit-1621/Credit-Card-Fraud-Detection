@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-## Installation
+## Importing Libraries
 **Importing Libraries**</br>
 * numpy
 * pandas
