@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection
-### Credit Card Fraud Detection with Machine Learning
+## Credit Card Fraud Detection with Machine Learning
 ## Importing Libraries
 **Importing Libraries**</br>
 * numpy
